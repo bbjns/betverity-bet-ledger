@@ -1,0 +1,5 @@
+bet_id,currency,status,stake,payout,refund,fee
+example-a,USD,settled,20.00,35.00,0,1.00
+example-b,USD,settled,20.00,0,0,0
+example-c,USD,void,10.00,0,10.00,0
+example-d,USD,pending,5.00,0,0,0
